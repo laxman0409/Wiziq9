@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    
+      <class name="com.wiziq.testcases.Login"/>
+      
+      <class name="com.wiziq.testcases.Scheduled_course"/>
+      
+      
+    
+     <!-- 
+     
+     Library1
+     
+     Test_module
+     
+     Clone_test
+     
+     Draft_test
+     
+     Self_Paced_course
+     
+     Scheduled_course
+     
+     Draft_course
+     
+    LiveClasses
+     
+    Recurring_Classes
+    
+
+    Reports
+    
+    Privacy_Policy_Module
+    
+    General_settings
+    
+    Roles
+    
+    User_management
+    
+    Account_settings
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    //instructor end//
+    
+    Instructor_library
+    
+    Instructor_test
+    
+    Instructor_Draft_Course
+    
+    Instructor_clone_test
+    
+    Instructor_Self_paced_Course
+    
+    Instructor_Scheduled_Course
+    
+    Instructor_Draft_Course
+    
+    Instructor_LiveClass
+    
+    Instructor_RecurringClass
+    
+    Instructor_Privacy_policy_module
+    
+    
+    
+    
+    -->
+     
+     
+     
+     
+     
+    
+    <!--   <class name="com.wiziq.testcases.Login"/>
+      <class name="com.wiziq.testcases.LiveClasses"/> 
+      <class name="com.wiziq.testcases.Course_scheduled_free"/>
+      <class name="com.wiziq.testcases.courses_selfpaced"/>
+      <class name="com.wiziq.testcases.Test_module"/>
+      <class name="com.wiziq.testcases.Clone_test"/>
+      <class name="com.wiziq.testcases.Draft_test"/> 
+       <class name="com.wiziq.testcases.Recurring_Classes"/> -->
+     
+   
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
