@@ -28,6 +28,7 @@ public class Instructor_draft_test extends Testbase {
 		
 		
 		
+		
 		/*
 		driver.findElement(By.xpath("//*[@id=\"menu-top-right\"]")).click();
 		Thread.sleep(3000);
@@ -70,7 +71,7 @@ public class Instructor_draft_test extends Testbase {
 		driver.findElement(By.xpath("//button[contains(@class,'fluidModalClose')]")).click();
 		driver.switchTo().defaultContent();
 		Thread.sleep(5000);
-		System.out.println("Draft_Test is saved at instructor end successfully ");
+		System.out.println("Draft_Test is saved at instructor end successfully    ");
 		
 		Thread.sleep(5000);
 		driver.findElement(By.xpath("//*[@id=\"mainMdlContainer\"]/header/div[2]/div[1]/ul/li[2]/a")).click();

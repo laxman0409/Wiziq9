@@ -60,6 +60,7 @@ public class Draft_course extends Testbase {
 			//2nd page
 			
 			
+			
 			// add the course name
 		   	  driver.findElement(By.id("txtTitle")).sendKeys("Draft_Course_is_saved_by_automation");
 			 // driver.findElement(By.id("lbtnNextProfile")).click();

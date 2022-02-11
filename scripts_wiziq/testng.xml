@@ -6,7 +6,7 @@
     
       <class name="com.wiziq.testcases.Login"/>
       
-      <class name="com.wiziq.testcases.Scheduled_course"/>
+      <class name="com.wiziq.testcases.Recurring_Classes"/>
       
       
     
